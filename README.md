@@ -33,5 +33,10 @@
 
 ## BONUS
 
-###1 NOT DONE
-###2 COMPLETED
+### 1 NOT DONE
+### 2 COMPLETED
+
+
+# RUN Test Cases
+
+Test cases are covered in class AnimalRestControllerTest and SolutionTest 
